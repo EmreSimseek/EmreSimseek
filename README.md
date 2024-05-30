@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/EmreSimseek) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/emre.simsek08/) 
+[![Linkedin Badge](https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg)]([https://www.instagram.com/emre.simsek08/](https://www.linkedin.com/in/emree-simsek/)) 
