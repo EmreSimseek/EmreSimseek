@@ -2,11 +2,14 @@
 
 ### About Me :
  
-  - :school: I am student at Bursa Technical University.
+  - :school: I am a student at Bursa Technical University.
   - I work on machine learning, deep learning and digital image processing
   - I am also working on Java
 
-   - 📫 How to reach me: ...
+   
+   - <h2>Contact with me</h2>
+<a href = "mailto:emre0816s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/emree-simsek/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/EmreSimseek) 
