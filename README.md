@@ -1,6 +1,7 @@
-## Hi there 👋
+Hi there 👋
 
 <h1>Emre ŞİMŞEK</h1>
+
 ### About Me :
  
   - :school: I am a student at Bursa Technical University.
