@@ -6,7 +6,7 @@
  
   - :school: I am a student at Bursa Technical University.
   - I work on machine learning, deep learning and digital image processing
-  - I am also working on Java
+  - I am also working on C and Java
 
    
    - <h2>Contact with me</h2>
