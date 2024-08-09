@@ -5,7 +5,7 @@
 ### About Me :
  
   - :school: I am a student at Bursa Technical University.
-  - I work on machine learning, deep learning and digital image processing
+  - I work on machine learning, deep learning and digital image processing (currently at a beginner level in digital image processing)
   - I am also working on C and Java
 
    
