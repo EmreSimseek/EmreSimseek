@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Emre Şimşek!</h1>
 <h3 align="center">Diving deep into the world of artificial intelligence and building intelligent systems.</h3>
-
+- 👩🏻‍💻 I'm a student of computer engineering at Bursa Technical University**
 - 🌱 I’m currently learning **OpenCV, DeepLearning and Computer Vision**
 
-- 📫 How to reach me **simsek.emree08@gmail.com**
+- 📫 How to reach me: **simsek.emree08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
