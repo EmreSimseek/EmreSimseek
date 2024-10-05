@@ -25,6 +25,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emresimseek&show_icons=true&locale=en&layout=compact" alt="emresimseek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emresimseek&theme=dark" alt="emresimseek" /></p>
+<div style="display: flex; justify-content: center;">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emresimseek&show_icons=true&locale=en&layout=compact" alt="emresimseek" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emresimseek&theme=dark" alt="emresimseek" />
+  </p>
+</div>
