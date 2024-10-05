@@ -1,17 +1,13 @@
 <h1 align="center">Hi, I'm Emre Şimşek!</h1>
 <h3 align="center">Diving deep into the world of artificial intelligence and building intelligent systems.</h3>
 - 👩🏻‍💻 I'm a student of computer engineering at Bursa Technical University**
+
 - 🌱 I’m currently learning **OpenCV, DeepLearning and Computer Vision**
 
 - 📫 How to reach me: **simsek.emree08@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emree-simsek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emree-simsek/" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/daniel-bellmas/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
-</a>
-</p>
+
+  
 
 <h3 align="left">💻 Language and Tools:</h3>
 <p align="left">
