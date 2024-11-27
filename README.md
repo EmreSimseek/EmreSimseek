@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I'm a student of computer engineering at Bursa Technical University
 
-- 🌱 I’m currently learning **OpenCV, DeepLearning and Computer Vision**
+- 🌱 I’m currently working **DeepLearning and Computer Vision**
 
 - 📫 How to reach me: **simsek.emree08@gmail.com**
 
